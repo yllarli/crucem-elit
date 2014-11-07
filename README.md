@@ -9,7 +9,7 @@ Build Process
 
 1) Tuleb tõmmata maven (testitud versiooniga 3.1.1) - https://maven.apache.org/download.cgi
 
-2) Projekti kaustas kasutada käsku "mvn clean install"
+2) Projekti kaustas kasutada käsku "mvn clean install" - see käivitab ka automaatsed testid
 
 3) Tuleb tõmmata Heroku Toolbelt - https://toolbelt.heroku.com/
 
